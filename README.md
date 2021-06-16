@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkMatter015
 - 👀 I’m interested in learnng programation, computing and english
-- 🌱 I’m currently learnin javascript, html5, css
+- 🌱 I’m currently learnin javascript, html5, css, python
 
 
 <!---
