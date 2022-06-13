@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DarkMatter015
-- 👀 I’m interested in learnng programation, computing and english
-- 🌱 I’m currently learnin javascript, html5, css, python
+- 👋 Olá, meu nome é Lucas Matheus de Camargo;
+- 👀 Eus estou interssado em aprender programação, computação e inglês;
+- 🌱 Atualmente estou estudando javascript, html5, css e python.
 
 
 <!---
