@@ -1,5 +1,5 @@
 - 👋 Olá, meu nome é Lucas Matheus de Camargo;
-- 👀 Eus estou interssado em aprender programação, computação e inglês;
+- 👀 Eu estou interssado em aprender programação, computação e inglês;
 - 🌱 Atualmente estou estudando javascript, html5, css e python.
 
 
