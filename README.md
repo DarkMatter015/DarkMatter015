@@ -22,8 +22,6 @@
 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="center" height="50" width="50" src="http://lite.acad.univali.br/portugol/assets/img/logo.png" />
-
 </div>
 
 ##
