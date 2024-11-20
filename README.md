@@ -1,8 +1,8 @@
 ### Olá 👋, eu sou o Lucas
 
-- 🔨 Atualmente estou trabalhando como analista de qualidade de TI
-- 👀 Eu estou interssado em aprender programação, computação e inglês
-- 🌱 Atualmente estou estudando javascript, html5, css e python.
+- 🔨 Atualmente estou procurando emprego na área de TI ou Admnistrativo
+- 👀 Eu estou interssado em aprender programação, testes e inglês
+- 🌱 Atualmente estou estudando C, Java, SQL Server.
 
 <div>
 
