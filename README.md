@@ -1,8 +1,8 @@
 ### Olá 👋, eu sou o Lucas
 
-- 🔨 Atualmente estou procurando emprego na área de TI ou Admnistrativo
-- 👀 Eu estou interssado em aprender programação, testes e inglês
-- 🌱 Atualmente estou estudando C, Java, SQL Server.
+- 🔨 Atualmente estou procurando emprego na área de TI como Desenvolvedor, Analista de Qualidade ou Suporte.
+- 👀 Eu estou interssado em me desenvolver na área de desenvolvimento FullStack e também aprimorar e aprender outras línguas (inglês, espanhol, Alemão)
+- 🌱 Atualmente estou estudando C, Java, SQL Server e também outras tecnologias frontend como Angular, React etc.
 
 <div>
 
@@ -14,6 +14,12 @@
 
 <div style="display: inline-block">
 
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+
+<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
+
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -21,6 +27,7 @@
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 <img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+          
 
 </div>
 
