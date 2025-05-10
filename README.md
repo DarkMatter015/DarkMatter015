@@ -1,8 +1,8 @@
 ### Olá 👋, eu sou o Lucas
 
 - 🔨 Atualmente estou procurando emprego na área de TI como Desenvolvedor, Analista de Qualidade ou Suporte.
-- 👀 Eu estou interssado em me desenvolver na área de desenvolvimento FullStack e também aprimorar e aprender outras línguas (inglês, espanhol, Alemão)
-- 🌱 Atualmente estou estudando C, Java, SQL Server e também outras tecnologias frontend como Angular, React etc.
+- 👀 Eu estou interssado em me desenvolver na área de desenvolvimento FullStack e Testes Automatizados.
+- 🌱 Atualmente estou estudando C, Java, SQL Server e também outras tecnologias frontend como Angular, React e ferramentas de automação como Cypress e Postman.
 
 <div>
 
