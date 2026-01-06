@@ -1,45 +1,71 @@
-### Olá 👋, eu sou o Lucas
+# Olá, eu sou o Lucas! 👋
+## Analista de Qualidade | Desenvolvedor Full Stack
 
-- 🔨 Atualmente estou procurando emprego na área de TI como Desenvolvedor, Analista de Qualidade ou Suporte.
-- 👀 Eu estou interssado em me desenvolver na área de desenvolvimento FullStack e Testes Automatizados.
-- 🌱 Atualmente estou estudando C, Java, SQL Server e também outras tecnologias frontend como Angular, React e ferramentas de automação como Cypress e Postman.
+Sou um QA com conhecimento em Desenvolvimento Full Stack. Minha abordagem de engenharia prioriza a testabilidade, a segurança e a escalabilidade desde a concepção da arquitetura.
 
-<div>
+Combino o rigor da automação de testes com o desenvolvimento de soluções completas, utilizando **Java (Spring)** para sistemas distribuídos e **React (TypeScript/JS)** para interfaces dinâmicas e tipadas.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMatter015&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter015&layout=compact&&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ Tech Stack e Ferramentas
 
+#### ☕ Back-end & DevOps
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+#### ⚛️ Front-end
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🧪 Testes & Automação
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-000?style=for-the-badge&logo=robot-framework&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+### ⚡ Projetos Recentes
+
+#### 🛒 **[RiffHouse Ecommerce API - Back-End]**
+*API RESTful escalável com arquitetura orientada a eventos.*
+- **Engenharia:** Desenvolvimento em **Java 17/Spring Boot** com foco em desacoplamento. Utilização de **RabbitMQ** para processamento assíncrono de pedidos e notificações, garantindo alta disponibilidade. Implementação de camada de persistência otimizada com JPA e PostgreSQL.
+- **Stack:** Java, Spring Boot, RabbitMQ, PostgreSQL, Docker.
+- [🔗 Ver Código Fonte](https://github.com/DarkMatter015/server-ecommerce)
+
+#### 🖥️ **[RiffHouse Ecommerce Client - Front-End]**
+*SPA moderna com foco em performance e experiência do usuário.*
+- **Engenharia:** Interface desenvolvida em **React** utilizando **TypeScript** para garantir tipagem estática e reduzir erros em tempo de execução. Arquitetura de rotas com **React Router**, gerenciamento de estado global e validação de formulários complexos. A comunicação com o backend é centralizada via **Axios** com interceptors para tratamento de erros e autenticação.
+- **Stack:** React, TypeScript, JavaScript, Axios, React Router, React Forms.
+- [🔗 Ver Código Fonte](https://github.com/DarkMatter015/client-ecommerce)
+
+---
+
+### 🎯 Diferencial Técnico
+
+Minha experiência como QA impacta diretamente a qualidade do meu código:
+1.  **Mindset Preventivo:** Desenvolvo antecipando falhas de integração e cenários de exceção.
+2.  **Arquitetura Testável:** Escrevo código modular, facilitando a criação de testes unitários e de integração.
+3.  **Visão End-to-End:** Compreensão clara do ciclo de vida da aplicação, do banco de dados à interface do usuário.
+
+---
+
+### 📊 Estatísticas
+
+<div align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DarkMatter015&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter015&layout=compact&theme=graywhite&hide_border=true"/>
 </div>
 
-<div style="display: inline-block">
+---
 
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+### 📬 Contato
 
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-<img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-          
-
-</div>
-
-##
-
-<div style="display: inline-block">
-
-<a href="https://www.linkedin.com/in/lucas-matheus-de-camargo-49a315236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-
-</div>
-
-<!---
-DarkMatter015/DarkMatter015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-matheus-de-camargo-49a315236/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:decamargoluk@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5546991317674)
