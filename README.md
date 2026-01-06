@@ -70,9 +70,12 @@ Minha experiência como QA impacta diretamente a qualidade do meu código:
 
 ### 📊 Estatísticas
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarkMatter015&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true)](https://github.com/DarkMatter015/github-readme-stats)
+
 <div align="left">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=DarkMatter015&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter015&layout=compact&theme=graywhite&hide_border=true"/>
+  
+<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DarkMatter015&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter015&layout=compact&theme=graywhite&hide_border=true"/> -->
 </div>
 
 ---
