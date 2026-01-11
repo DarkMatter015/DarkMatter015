@@ -47,7 +47,11 @@ Combino o rigor da automação de testes com o desenvolvimento de soluções com
 - **Dados:** Spring Data JPA, PostgreSQL (Prod) e H2 Database (Dev). Validações com Spring Validation.
 - **Produtividade & Utils:** Lombok para redução de boilerplate, ModelMapper para DTOs e Maven para gerenciamento de dependências.
 - **Engenharia:** Arquitetura robusta preparada para escalabilidade.
-- [🔗 Ver Código Fonte](https://github.com/DarkMatter015/server-ecommerce)
+<div align="center">
+  <a href="https://github.com/DarkMatter015/server-ecommerce">
+    <img align="center" src="https://github-readme-stats-two-rouge-35.vercel.app/api/pin/?username=DarkMatter015&repo=server-ecommerce&theme=cobalt" />
+  </a>
+</div>
 
 #### 🖥️ **[RiffHouse Ecommerce Client - Front-End]**
 *SPA moderna focada em performance e experiência do usuário (UX).*
@@ -55,7 +59,12 @@ Combino o rigor da automação de testes com o desenvolvimento de soluções com
 - **UI & Estilo:** **PrimeReact** (Componentes UI), **PrimeIcons** e **PrimeFlex** (CSS responsivo).
 - **Gerenciamento:** **React Hook Form** para formulários complexos e **Context API** para gestão de estado (Autenticação/Carrinho).
 - **Integração:** **Axios** para consumo de API REST e **React Router Dom** para navegação.
-- [🔗 Ver Código Fonte](https://github.com/DarkMatter015/client-ecommerce)
+
+<div align="center">
+  <a href="https://github.com/DarkMatter015/client-ecommerce">
+    <img align="center" src="https://github-readme-stats-two-rouge-35.vercel.app/api/pin/?username=DarkMatter015&repo=client-ecommerce&theme=cobalt" />
+  </a>
+</div>
 
 ---
 
@@ -72,10 +81,10 @@ Minha experiência como QA impacta diretamente a qualidade do meu código:
 
 <div align="center">
   <a href="https://github.com/DarkMatter015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkMatter015&show_icons=true&theme=graywhite&include_all_commits=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-two-rouge-35.vercel.app/api?username=DarkMatter015&show_icons=true&theme=cobalt&include_all_commits=true&hide_border=true"/>
   </a>
   <a href="https://github.com/DarkMatter015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter015&layout=compact&theme=graywhite&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-two-rouge-35.vercel.app/api/top-langs/?username=DarkMatter015&layout=compact&theme=cobalt&hide_border=true"/>
   </a>
 </div>
 
