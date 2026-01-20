@@ -34,6 +34,7 @@ Combino o rigor da automação de testes com o desenvolvimento de soluções com
 #### 🧪 Testes & Automação
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-000?style=for-the-badge&logo=robot-framework&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-8883E0?style=for-the-badge&logo=appium&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
@@ -47,7 +48,8 @@ Combino o rigor da automação de testes com o desenvolvimento de soluções com
 - **Dados:** Spring Data JPA, PostgreSQL (Prod) e H2 Database (Dev). Validações com Spring Validation.
 - **Produtividade & Utils:** Lombok para redução de boilerplate, ModelMapper para DTOs e Maven para gerenciamento de dependências.
 - **Engenharia:** Arquitetura robusta preparada para escalabilidade.
-<div align="center">
+- 
+<div>
   <a href="https://github.com/DarkMatter015/server-ecommerce">
     <img align="center" src="https://github-readme-stats-two-rouge-35.vercel.app/api/pin/?username=DarkMatter015&repo=server-ecommerce&theme=cobalt" />
   </a>
@@ -60,9 +62,18 @@ Combino o rigor da automação de testes com o desenvolvimento de soluções com
 - **Gerenciamento:** **React Hook Form** para formulários complexos e **Context API** para gestão de estado (Autenticação/Carrinho).
 - **Integração:** **Axios** para consumo de API REST e **React Router Dom** para navegação.
 
-<div align="center">
+<div>
   <a href="https://github.com/DarkMatter015/client-ecommerce">
     <img align="center" src="https://github-readme-stats-two-rouge-35.vercel.app/api/pin/?username=DarkMatter015&repo=client-ecommerce&theme=cobalt" />
+  </a>
+</div>
+
+#### 🖥️ **[RiffHouse AI Service - AI Agent]**
+*Microserviço de agente de AI para Chat na aplicação Front End Riffhouse Ecommerce.*
+
+<div>
+  <a href="https://github.com/DarkMatter015/ia-service-ecommerce">
+    <img align="center" src="https://github-readme-stats-two-rouge-35.vercel.app/api/pin/?username=DarkMatter015&repo=ia-service-ecommerce&theme=cobalt" />
   </a>
 </div>
 
